@@ -1,0 +1,55 @@
+[
+  {
+    "id": "aria-hidden-focus",
+    "title": "`[aria-hidden=\"true\"]` elements contain focusable descendents",
+    "description": "Focusable descendents within an `[aria-hidden=\"true\"]` element prevent those interactive elements from being available to users of assistive technologies like screen readers. [Learn more](https://web.dev/aria-hidden-focus/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-276-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,SECTION,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,DIV",
+            "selector": "div#slick-block-content-hero-background-media-default-23916-1-slider > div.slick-list > div.slick-track > div.slick__slide",
+            "boundingRect": {
+              "top": 348,
+              "bottom": 696,
+              "left": 32,
+              "right": 380,
+              "width": 348,
+              "height": 348
+            },
+            "snippet": "<div class=\"slick__slide slide slide--2 slick-slide\" data-slick-index=\"2\" aria-hidden=\"true\" style=\"width: 348px; position: relative; left: -696px; top: 0px; z-index: 998;\" tabindex=\"0\">",
+            "nodeLabel": "Children play a game on a device",
+            "explanation": "Fix all of the following:\n  Focusable content should have tabindex='-1' or be removed from the DOM"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

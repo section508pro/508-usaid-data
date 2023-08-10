@@ -1,0 +1,158 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-330-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,1,DIV,0,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV",
+            "selector": "div.grid-col-12 > div._none > div.field > div.usa-accordion",
+            "boundingRect": {
+              "top": 5589,
+              "bottom": 6223,
+              "left": 40,
+              "right": 372,
+              "width": 332,
+              "height": 634
+            },
+            "snippet": "<div class=\"usa-accordion usaid-accordion paragraph paragraph--type--accordion paragra…\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Environmental and Natural Resource Management Framework\nClimate Change\nConservi…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-hidden-focus",
+    "title": "`[aria-hidden=\"true\"]` elements contain focusable descendents",
+    "description": "Focusable descendents within an `[aria-hidden=\"true\"]` element prevent those interactive elements from being available to users of assistive technologies like screen readers. [Learn more](https://web.dev/aria-hidden-focus/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-331-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,SECTION,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,DIV",
+            "selector": "div#slick-block-content-hero-background-media-default-49256-1-slider > div.slick-list > div.slick-track > div.slick__slide",
+            "boundingRect": {
+              "top": 374,
+              "bottom": 738,
+              "left": 24,
+              "right": 388,
+              "width": 364,
+              "height": 364
+            },
+            "snippet": "<div class=\"slick__slide slide slide--2 slick-slide\" data-slick-index=\"2\" aria-hidden=\"true\" style=\"width: 364px; position: relative; left: -728px; top: 0px; z-index: 998;\" tabindex=\"0\">",
+            "nodeLabel": "USAID announced 24 new and ongoing initiatives to conserve and protect our ocea…",
+            "explanation": "Fix all of the following:\n  Focusable content should have tabindex='-1' or be removed from the DOM"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-332-H5",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,H5",
+            "selector": "div.grid-col-12 > div._none > div.usaid-headline-selector-610621 > h5.usa-heading",
+            "boundingRect": {
+              "top": 6791,
+              "bottom": 6808,
+              "left": 32,
+              "right": 380,
+              "width": 348,
+              "height": 18
+            },
+            "snippet": "<h5 class=\"usa-heading text-normal text-uppercase\">",
+            "nodeLabel": "SHARE THIS PAGE",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
