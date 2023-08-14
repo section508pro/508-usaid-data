@@ -1,0 +1,128 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "25-270-H3",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,H3",
+            "selector": "div.desktop:grid-col-8 > div._none > div.field > h3",
+            "boundingRect": {
+              "top": 234,
+              "bottom": 416,
+              "left": 24,
+              "right": 388,
+              "width": 364,
+              "height": 182
+            },
+            "snippet": "<h3>",
+            "nodeLabel": "A U.S. Government-led partnership, Power Africa convenes the collective resourc…",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "25-271-H5",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,14,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,H5",
+            "selector": "div.grid-col-12 > div._none > div.usaid-headline-selector-686609 > h5.usa-heading",
+            "boundingRect": {
+              "top": 9265,
+              "bottom": 9282,
+              "left": 32,
+              "right": 380,
+              "width": 348,
+              "height": 18
+            },
+            "snippet": "<h5 class=\"usa-heading text-normal text-uppercase\">",
+            "nodeLabel": "SHARE THIS PAGE",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "25-185-A",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,4,A",
+            "selector": "div.desktop:grid-col-4 > div._none > div.field > a",
+            "boundingRect": {
+              "top": 1291,
+              "bottom": 1311,
+              "left": 32,
+              "right": 380,
+              "width": 348,
+              "height": 20
+            },
+            "snippet": "<a href=\"/powerafrica/10th-anniversary\">",
+            "nodeLabel": "div.desktop:grid-col-4 > div._none > div.field > a",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
