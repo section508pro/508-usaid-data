@@ -5,8 +5,8 @@
   "link-name": 25,
   "button-name": 7,
   "color-contrast": 3,
-  "duplicate-id-aria": 1,
   "image-alt": 1,
+  "duplicate-id-aria": 1,
   "label": 1,
   "frame-title": 1
 }
