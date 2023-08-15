@@ -1,8 +1,8 @@
 {
-  "heading-order": 205,
+  "heading-order": 202,
   "aria-allowed-attr": 117,
-  "aria-hidden-focus": 32,
-  "link-name": 25,
+  "link-name": 26,
+  "aria-hidden-focus": 15,
   "button-name": 7,
   "color-contrast": 3,
   "duplicate-id-aria": 1,
