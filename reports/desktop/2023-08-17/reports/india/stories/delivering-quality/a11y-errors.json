@@ -1,0 +1,212 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-256-SPAN",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,3,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,2,P,0,SPAN",
+            "selector": "div._none > div.field > p#31c5 > span",
+            "boundingRect": {
+              "top": 2181,
+              "bottom": 2246,
+              "left": 56,
+              "right": 1200,
+              "width": 1144,
+              "height": 64
+            },
+            "snippet": "<span style=\"color:#8c8985;\">",
+            "nodeLabel": "This means that mothers across India, like Shivani, can have a more positive, s…",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.48 (foreground color: #8c8985, background color: #ffffff, font size: 17.5pt (23.36px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-257-BODY",
+                  "path": "1,HTML,1,BODY",
+                  "selector": "body",
+                  "boundingRect": {
+                    "top": 0,
+                    "bottom": 7257,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 7257
+                  },
+                  "snippet": "<body data-aos-easing=\"ease\" data-aos-duration=\"1500\" data-aos-delay=\"0\">",
+                  "nodeLabel": "body"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-258-SPAN",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,6,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,3,P,0,SPAN",
+            "selector": "div._none > div.field > p#e890 > span",
+            "boundingRect": {
+              "top": 3358,
+              "bottom": 3422,
+              "left": 56,
+              "right": 1240,
+              "width": 1184,
+              "height": 64
+            },
+            "snippet": "<span style=\"color:#8c8985;\">",
+            "nodeLabel": "“[W]e seem to have achieved a 90% patient satisfaction score in one year,” said…",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.48 (foreground color: #8c8985, background color: #ffffff, font size: 17.5pt (23.36px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-257-BODY",
+                  "path": "1,HTML,1,BODY",
+                  "selector": "body",
+                  "boundingRect": {
+                    "top": 0,
+                    "bottom": 7257,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 7257
+                  },
+                  "snippet": "<body data-aos-easing=\"ease\" data-aos-duration=\"1500\" data-aos-delay=\"0\">",
+                  "nodeLabel": "body"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-259-SPAN",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,8,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,P,0,SPAN",
+            "selector": "div._none > div.field > p#df86 > span",
+            "boundingRect": {
+              "top": 4361,
+              "bottom": 4425,
+              "left": 56,
+              "right": 1276,
+              "width": 1220,
+              "height": 64
+            },
+            "snippet": "<span style=\"color:#8c8985;\">",
+            "nodeLabel": "“They were calling me, ‘babu babu,’ (a common term of endearment from elders),”…",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 3.48 (foreground color: #8c8985, background color: #ffffff, font size: 17.5pt (23.36px), font weight: normal). Expected contrast ratio of 4.5:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-257-BODY",
+                  "path": "1,HTML,1,BODY",
+                  "selector": "body",
+                  "boundingRect": {
+                    "top": 0,
+                    "bottom": 7257,
+                    "left": 0,
+                    "right": 1350,
+                    "width": 1350,
+                    "height": 7257
+                  },
+                  "snippet": "<body data-aos-easing=\"ease\" data-aos-duration=\"1500\" data-aos-delay=\"0\">",
+                  "nodeLabel": "body"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 3
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-260-H5",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,14,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,H5",
+            "selector": "div.grid-col-12 > div._none > div.usaid-headline-selector-28229 > h5.usa-heading",
+            "boundingRect": {
+              "top": 6872,
+              "bottom": 6890,
+              "left": 48,
+              "right": 1302,
+              "width": 1254,
+              "height": 18
+            },
+            "snippet": "<h5 class=\"usa-heading text-normal text-uppercase\">",
+            "nodeLabel": "SHARE THIS PAGE",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

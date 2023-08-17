@@ -1,0 +1,128 @@
+[
+  {
+    "id": "duplicate-id-aria",
+    "title": "ARIA IDs are not unique",
+    "description": "The value of an ARIA ID must be unique to prevent other instances from being overlooked by assistive technologies. [Learn more](https://web.dev/duplicate-id-aria/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-306-INPUT",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,DIV,1,DIV,2,FORM,2,FIELDSET,2,OL,0,LI,1,INPUT",
+            "selector": "fieldset > ol.form > li.email_fields > input#email",
+            "boundingRect": {
+              "top": 811,
+              "bottom": 836,
+              "left": 1054,
+              "right": 1263,
+              "width": 209,
+              "height": 24
+            },
+            "snippet": "<input class=\"long email_text_field\" id=\"email\" name=\"email\" required=\"required\" type=\"email\" value=\"\">",
+            "nodeLabel": "fieldset > ol.form > li.email_fields > input#email",
+            "explanation": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: email"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-308-symbol",
+                  "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,svg,0,defs,2,symbol",
+                  "selector": "div > svg > defs > symbol#email",
+                  "boundingRect": {
+                    "top": 0,
+                    "bottom": 0,
+                    "left": 0,
+                    "right": 0,
+                    "width": 0,
+                    "height": 0
+                  },
+                  "snippet": "<symbol id=\"email\" viewBox=\"0 0 64 64\">",
+                  "nodeLabel": "div > svg > defs > symbol#email"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.parsing",
+          "wcag2a",
+          "wcag411"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-309-H5",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,H5",
+            "selector": "div.grid-col-12 > div._none > div.usaid-headline-selector-660046 > h5.usa-heading",
+            "boundingRect": {
+              "top": 1441,
+              "bottom": 1459,
+              "left": 48,
+              "right": 1302,
+              "width": 1254,
+              "height": 18
+            },
+            "snippet": "<h5 class=\"usa-heading text-normal text-uppercase\">",
+            "nodeLabel": "SHARE THIS PAGE",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

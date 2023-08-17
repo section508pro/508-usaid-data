@@ -1,0 +1,1602 @@
+[
+  {
+    "path": "/",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-us",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/about-us/agency-policy",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/about-us/agency-policy/ads-menu",
+    "score": 0.93,
+    "performance": 0.96,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/diversity-equity-inclusion",
+    "score": 0.99,
+    "performance": 0.98,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/about-us/mission-vision-values",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/about-us/nondiscrimination",
+    "score": 0.98,
+    "performance": 0.94,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/about-us/organization",
+    "score": 0.99,
+    "performance": 0.96,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/about-us/organization/leadership-listing",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-us/trip-hub",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/usaid-history",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/accessibility",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/actingonthecall/stories/empowering-women-farmers-in-bangladesh",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/administrator-power-travels-pacific-islands-aug-2023",
+    "score": 0.98,
+    "performance": 0.91,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/afghanistan",
+    "score": 0.96,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/agriculture-and-food-security",
+    "score": 0.82,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/albania",
+    "score": 0.95,
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/angola",
+    "score": 0.82,
+    "performance": 0.46,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/anti-corruption",
+    "score": 0.93,
+    "performance": 0.88,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/archives",
+    "score": 1,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/armenia",
+    "score": 0.92,
+    "performance": 0.75,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/asia-regional",
+    "score": 0.87,
+    "performance": 0.64,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/azerbaijan",
+    "score": 0.97,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/bangladesh",
+    "score": 0.84,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/belarus",
+    "score": 0.91,
+    "performance": 0.85,
+    "accessibility": 0.88,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/benin",
+    "score": 0.96,
+    "performance": 0.95,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/bolivia",
+    "score": 1,
+    "performance": 0.99,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/bosnia-and-herzegovina",
+    "score": 0.96,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/botswana",
+    "score": 0.96,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/brazil",
+    "score": 0.94,
+    "performance": 0.9,
+    "accessibility": 0.85,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/burkina-faso",
+    "score": 0.95,
+    "performance": 0.88,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/burma",
+    "score": 0.86,
+    "performance": 0.6,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/burundi",
+    "score": 0.89,
+    "performance": 0.7,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/business-forecast",
+    "score": 1,
+    "performance": 0.99,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/cambodia",
+    "score": 0.87,
+    "performance": 0.64,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/cameroon",
+    "score": 0.95,
+    "performance": 0.9,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/careers/collective-bargaining-agreements",
+    "score": 1,
+    "performance": 0.99,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/careers/disabilities-employment-program",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/careers/federal-employee-viewpoint-survey",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/careers/reasonable-accommodations",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/careers/urgent-hiring-needs",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/careers/vacancy-announcements",
+    "score": 0.93,
+    "performance": 0.78,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/caribbean-regional",
+    "score": 0.88,
+    "performance": 0.74,
+    "accessibility": 0.85,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/catalyzing-innovation-and-partnership",
+    "score": 0.89,
+    "performance": 0.71,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/central-africa-regional",
+    "score": 0.96,
+    "performance": 0.93,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/central-african-republic",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/central-asia-regional",
+    "score": 0.89,
+    "performance": 0.7,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/chad",
+    "score": 0.96,
+    "performance": 0.9,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/china",
+    "score": 0.98,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/cj",
+    "score": 0.98,
+    "performance": 0.93,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/climate",
+    "score": 0.92,
+    "performance": 0.8,
+    "accessibility": 0.97,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/colombia",
+    "score": 0.82,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/conflict-prevention-stabilization",
+    "score": 0.8,
+    "performance": 0.47,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/contact-us",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/cote-divoire",
+    "score": 0.94,
+    "performance": 0.87,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/cuba",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/democracy",
+    "score": 0.82,
+    "performance": 0.5,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/democratic-republic-congo",
+    "score": 0.9,
+    "performance": 0.69,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/djibouti",
+    "score": 0.96,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/dominican-republic",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/east-africa-regional",
+    "score": 0.94,
+    "performance": 0.87,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/economic-growth-and-trade",
+    "score": 0.98,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/ecuador",
+    "score": 0.9,
+    "performance": 0.75,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/education",
+    "score": 0.83,
+    "performance": 0.47,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/egov",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/egypt",
+    "score": 0.83,
+    "performance": 0.48,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/el-salvador",
+    "score": 0.9,
+    "performance": 0.74,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/el-salvador/stories/a-voyage-of-opportunities",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/empowering-women-and-girls",
+    "score": 0.89,
+    "performance": 0.66,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/environment-energy-infrastructure",
+    "score": 0.94,
+    "performance": 0.82,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/eswatini",
+    "score": 0.95,
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/ethiopia",
+    "score": 0.89,
+    "performance": 0.7,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/evaluation",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/foia",
+    "score": 0.99,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/food-security",
+    "score": 0.97,
+    "performance": 0.96,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/forms",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/gender-equality-and-womens-empowerment",
+    "score": 0.82,
+    "performance": 0.45,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/georgia",
+    "score": 0.94,
+    "performance": 0.87,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/ghana",
+    "score": 0.84,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/global-health",
+    "score": 0.93,
+    "performance": 0.72,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/greenland",
+    "score": 0.96,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/guatemala",
+    "score": 0.97,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/guinea",
+    "score": 0.78,
+    "performance": 0.26,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/haiti",
+    "score": 0.88,
+    "performance": 0.76,
+    "accessibility": 0.85,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/honduras",
+    "score": 0.81,
+    "performance": 0.47,
+    "accessibility": 0.85,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/humanitarian-assistance",
+    "score": 0.92,
+    "performance": 0.78,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/india",
+    "score": 0.85,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/india/stories/delivering-quality",
+    "score": 0.93,
+    "performance": 0.82,
+    "accessibility": 0.97,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/indo-pacific",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/indonesia",
+    "score": 0.84,
+    "performance": 0.52,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/innovation-technology-research",
+    "score": 0.93,
+    "performance": 0.87,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/iraq",
+    "score": 0.87,
+    "performance": 0.59,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/jamaica",
+    "score": 0.83,
+    "performance": 0.58,
+    "accessibility": 0.83,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/jordan",
+    "score": 0.88,
+    "performance": 0.68,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/jordan/stories/jordans-first-female-power-executive",
+    "score": 0.96,
+    "performance": 0.91,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/kazakhstan",
+    "score": 0.86,
+    "performance": 0.69,
+    "accessibility": 0.92,
+    "best-practices": 0.83,
+    "seo": 1
+  },
+  {
+    "path": "/kenya",
+    "score": 0.83,
+    "performance": 0.47,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/kosovo",
+    "score": 0.87,
+    "performance": 0.62,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/kyrgyz-republic",
+    "score": 0.87,
+    "performance": 0.64,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/laos",
+    "score": 0.87,
+    "performance": 0.64,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/lebanon",
+    "score": 0.89,
+    "performance": 0.72,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/lesotho",
+    "score": 0.92,
+    "performance": 0.85,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/liberia",
+    "score": 0.89,
+    "performance": 0.72,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/libya",
+    "score": 0.97,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/madagascar",
+    "score": 0.9,
+    "performance": 0.79,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/malawi",
+    "score": 0.88,
+    "performance": 0.67,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/malawi/stories/how-licensing-charcoal-from-tree-plantations-curbs-deforestation",
+    "score": 0.96,
+    "performance": 0.93,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/maldives",
+    "score": 0.95,
+    "performance": 0.9,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/mali",
+    "score": 0.92,
+    "performance": 0.79,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/mauritania",
+    "score": 0.9,
+    "performance": 0.66,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/mexico",
+    "score": 0.94,
+    "performance": 0.86,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/middle-east-regional-platform",
+    "score": 0.99,
+    "performance": 0.95,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/moldova",
+    "score": 0.94,
+    "performance": 0.86,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/mongolia",
+    "score": 0.96,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/morocco",
+    "score": 0.88,
+    "performance": 0.68,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/mozambique",
+    "score": 0.82,
+    "performance": 0.45,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/namibia",
+    "score": 0.83,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/nepal",
+    "score": 0.84,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/news-information",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/news-information/press-releases/aug-14-2023-administrator-samantha-power-announces-additional-investments-pacific-island-countries-while-visiting-fiji",
+    "score": 0.95,
+    "performance": 0.82,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/press-releases/aug-14-2023-administrator-samantha-power-concludes-visit-papua-new-guinea",
+    "score": 0.94,
+    "performance": 0.78,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/press-releases/aug-14-2023-administrator-samantha-power-launches-country-representative-office-papua-new-guinea-solomon-islands-and-vanuatu",
+    "score": 0.94,
+    "performance": 0.76,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/press-releases/aug-15-2023-administrator-samantha-power-visits-suva-fiji",
+    "score": 0.95,
+    "performance": 0.82,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/press-releases/aug-15-2023-deputy-administrator-isobel-colemans-bilateral-meeting-and-mou-signing-ceremony-uzbekistan-minister-digital-technologies-sherzod-shermatov",
+    "score": 0.96,
+    "performance": 0.83,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/press-releases/aug-16-2023-administrator-samantha-power-visits-nadi-fiji",
+    "score": 0.94,
+    "performance": 0.75,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/speeches/aug-14-2023-administrator-power-at-the-opening-of-the-pacific-islands-mission",
+    "score": 0.95,
+    "performance": 0.82,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/speeches/aug-14-2023-administrator-samantha-powers-interview-papua-new-guineas-nasfund-fm100-talkback-show",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/speeches/aug-15-2023-administrator-samantha-power-at-the-university-of-the-south-pacific",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/speeches/aug-15-2023-administrator-samantha-powers-keynote-address-university-south-pacific",
+    "score": 0.92,
+    "performance": 0.75,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/speeches/aug-16-2023-administrator-power-speaks-press-nadi-fiji",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/speeches/aug-16-2023-administrator-samantha-power-speaks-us-indo-pacific-command-chiefs-defense-chod-conference",
+    "score": 0.99,
+    "performance": 0.98,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/news-information/videos",
+    "score": 0.88,
+    "performance": 0.67,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/nicaragua",
+    "score": 0.83,
+    "performance": 0.56,
+    "accessibility": 0.85,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/niger",
+    "score": 0.92,
+    "performance": 0.76,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/nigeria",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/no-fear-act",
+    "score": 1,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/no-fear-act/fy-2016",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/north-macedonia",
+    "score": 0.85,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/nutrition",
+    "score": 0.84,
+    "performance": 0.44,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/open",
+    "score": 0.96,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/organization/coordinators",
+    "score": 0.96,
+    "performance": 0.86,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/pacific-islands",
+    "score": 0.85,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/pakistan",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/panama",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/paraguay",
+    "score": 0.85,
+    "performance": 0.61,
+    "accessibility": 0.85,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/partner-with-us/find-a-funding-opportunity",
+    "score": 0.93,
+    "performance": 0.88,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/partner-with-us/organizations-work-usaid",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/partner-with-us/resources-for-partners",
+    "score": 0.99,
+    "performance": 0.98,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/partner-with-us/take-action",
+    "score": 0.99,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/peru",
+    "score": 0.92,
+    "performance": 0.76,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/philippines",
+    "score": 0.84,
+    "performance": 0.52,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/policy",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/policy/policy-framework",
+    "score": 0.92,
+    "performance": 0.76,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/powerafrica",
+    "score": 0.82,
+    "performance": 0.57,
+    "accessibility": 0.97,
+    "best-practices": 0.92,
+    "seo": 0.83
+  },
+  {
+    "path": "/privacy-policy",
+    "score": 0.99,
+    "performance": 0.98,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/promoting-global-health",
+    "score": 0.89,
+    "performance": 0.73,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/providing-humanitarian-assistance",
+    "score": 0.91,
+    "performance": 0.82,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/reports",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/reports/agency-financial-report",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/reports/performance",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/republic-congo",
+    "score": 0.97,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/results-and-data/data-resources",
+    "score": 0.95,
+    "performance": 0.89,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/results-and-data/data-resources/transparency",
+    "score": 0.99,
+    "performance": 0.97,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/results-and-data/planning",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/rwanda",
+    "score": 0.94,
+    "performance": 0.82,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/safeguarding-and-compliance",
+    "score": 0.96,
+    "performance": 0.86,
+    "accessibility": 0.99,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/sahel-regional",
+    "score": 0.87,
+    "performance": 0.59,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/senegal",
+    "score": 0.89,
+    "performance": 0.73,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/serbia",
+    "score": 0.78,
+    "performance": 0.27,
+    "accessibility": 0.93,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/sierra-leone",
+    "score": 0.88,
+    "performance": 0.69,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/somalia",
+    "score": 0.88,
+    "performance": 0.67,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/south-africa",
+    "score": 0.97,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/south-sudan",
+    "score": 0.93,
+    "performance": 0.82,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/southern-africa-regional",
+    "score": 0.85,
+    "performance": 0.62,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/sri-lanka",
+    "score": 0.91,
+    "performance": 0.8,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/stayconnected",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/stories/producing-food-in-wartime",
+    "score": 0.96,
+    "performance": 0.99,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/sudan",
+    "score": 0.86,
+    "performance": 0.63,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/supporting-global-stability",
+    "score": 0.9,
+    "performance": 0.77,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/syria",
+    "score": 0.93,
+    "performance": 0.8,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tajikistan",
+    "score": 0.83,
+    "performance": 0.48,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/tanzania",
+    "score": 0.88,
+    "performance": 0.66,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/thailand",
+    "score": 0.95,
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/the-gambia",
+    "score": 0.96,
+    "performance": 0.92,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/timor-leste",
+    "score": 0.84,
+    "performance": 0.62,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/tunisia",
+    "score": 0.96,
+    "performance": 0.94,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/turkmenistan",
+    "score": 0.84,
+    "performance": 0.52,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/uganda",
+    "score": 0.89,
+    "performance": 0.72,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/ukraine",
+    "score": 0.82,
+    "performance": 0.44,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/usaid-response-ukraine",
+    "score": 0.92,
+    "performance": 0.77,
+    "accessibility": 0.99,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/uzbekistan",
+    "score": 0.94,
+    "performance": 0.85,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/venezuela",
+    "score": 0.95,
+    "performance": 0.86,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/vietnam",
+    "score": 0.84,
+    "performance": 0.5,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/water-and-sanitation",
+    "score": 0.82,
+    "performance": 0.5,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 0.92
+  },
+  {
+    "path": "/west-africa-regional",
+    "score": 0.82,
+    "performance": 0.41,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/west-bank-and-gaza",
+    "score": 0.94,
+    "performance": 0.85,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work-usaid/how-to-work-with-usaid",
+    "score": 0.96,
+    "performance": 0.93,
+    "accessibility": 0.98,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/yemen",
+    "score": 0.85,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/zambia",
+    "score": 0.88,
+    "performance": 0.68,
+    "accessibility": 0.9,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/zimbabwe",
+    "score": 0.87,
+    "performance": 0.63,
+    "accessibility": 0.92,
+    "best-practices": 0.92,
+    "seo": 1
+  }
+]
