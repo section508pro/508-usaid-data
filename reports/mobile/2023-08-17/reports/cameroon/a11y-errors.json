@@ -1,0 +1,124 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-285-DIV",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,ARTICLE,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV",
+            "selector": "div.grid-col-12 > div._none > div.field > div.usa-accordion",
+            "boundingRect": {
+              "top": 3181,
+              "bottom": 3441,
+              "left": 48,
+              "right": 364,
+              "width": 316,
+              "height": 259
+            },
+            "snippet": "<div class=\"usa-accordion usaid-accordion paragraph paragraph--type--accordion paragra…\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Our Work\nUpdates\nWork With Us\nForeign Assistance Data",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-286-H3",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,H3",
+            "selector": "div.desktop:grid-col-8 > div._none > div.usaid-headline-selector-384554 > h3.usa-heading",
+            "boundingRect": {
+              "top": 567,
+              "bottom": 604,
+              "left": 32,
+              "right": 380,
+              "width": 348,
+              "height": 37
+            },
+            "snippet": "<h3 class=\"usa-heading text-light mobile:font-heading-xl\">",
+            "nodeLabel": "Country Overview",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-287-H5",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,5,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,H5",
+            "selector": "div.grid-col-12 > div._none > div.usaid-headline-selector-628816 > h5.usa-heading",
+            "boundingRect": {
+              "top": 4553,
+              "bottom": 4571,
+              "left": 32,
+              "right": 380,
+              "width": 348,
+              "height": 18
+            },
+            "snippet": "<h5 class=\"usa-heading text-normal text-uppercase\">",
+            "nodeLabel": "SHARE THIS PAGE",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 2
+  }
+]

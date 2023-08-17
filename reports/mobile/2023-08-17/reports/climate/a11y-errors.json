@@ -1,0 +1,166 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-299-H3",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,DIV,1,HEADER,0,H3",
+            "selector": "div.usaid-font-color-white > div.usa-card__container > header.usa-card__header > h3.usa-card__heading",
+            "boundingRect": {
+              "top": 460,
+              "bottom": 530,
+              "left": 86,
+              "right": 326,
+              "width": 240,
+              "height": 70
+            },
+            "snippet": "<h3 class=\"usa-card__heading usaid-card__heading\">",
+            "nodeLabel": "USAID Climate Strategy: Year One Progress Review",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-175-A",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,A",
+            "selector": "div.usaid-font-color-white > div.usa-card__container > div.usa-card__media > a.usa-link",
+            "boundingRect": {
+              "top": 443,
+              "bottom": 443,
+              "left": 86,
+              "right": 86,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<a class=\"usa-link usaid-link\" href=\"/policy/climate-strategy/jun-2023-progress\">",
+            "nodeLabel": "div.usaid-font-color-white > div.usa-card__container > div.usa-card__media > a.usa-link",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-178-A",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,3,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,A",
+            "selector": "div._none > div.usa-card__container > div.usa-card__media > a.usa-link",
+            "boundingRect": {
+              "top": 1421,
+              "bottom": 1421,
+              "left": 8,
+              "right": 8,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<a class=\"usa-link usaid-link\" href=\"/policy/climate-strategy\">",
+            "nodeLabel": "div._none > div.usa-card__container > div.usa-card__media > a.usa-link",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-193-A",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,8,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,A",
+            "selector": "div._none > div.usa-card__container > div.usa-card__media > a.usa-link",
+            "boundingRect": {
+              "top": 5110,
+              "bottom": 5110,
+              "left": 8,
+              "right": 8,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<a class=\"usa-link usaid-link\" href=\"/climate/approach\">",
+            "nodeLabel": "div._none > div.usa-card__container > div.usa-card__media > a.usa-link",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "13-223-A",
+            "path": "1,HTML,1,BODY,1,DIV,4,MAIN,1,DIV,3,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,14,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,A",
+            "selector": "div._none > div.usa-card__container > div.usa-card__media > a.usa-link",
+            "boundingRect": {
+              "top": 10704,
+              "bottom": 10704,
+              "left": 8,
+              "right": 8,
+              "width": 0,
+              "height": 0
+            },
+            "snippet": "<a class=\"usa-link usaid-link\" href=\"/climate/stories\">",
+            "nodeLabel": "div._none > div.usa-card__container > div.usa-card__media > a.usa-link",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 4
+  }
+]
